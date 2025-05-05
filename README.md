@@ -1,10 +1,5 @@
 # hello
 print("hello !world")
-<<<<<<< HEAD
-
-
-=======
 <br>
+ok
 
-bhdfgfu9dh jhgudfhg
->>>>>>> cb4ee6b (add the paragraph)
